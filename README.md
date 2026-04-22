@@ -191,8 +191,7 @@ AI 큐레이션은 두 가지 방식으로 구현된다. 관련성 필터링 단
 ---
 
 ## 사  사
-※ KIER E-리서치 큐레이터봇은 2024년 출연(연) 연구행정혁신 아이디어 공모전에서 선정되어, 2025년 국가과학기술연구회의 지원으로 개발된 결과입니다.
-The KIER E-Research Curatorbot was selected in the '2024 Research Administration Innovation Idea Contest' and was subsequently developed in 2025 with support from the National Research Council of Science and Technology (NST).
+※ KIER E-리서치 큐레이터봇은 2024년 출연(연) 연구행정혁신 아이디어 공모전에서 선정되어, 2025년 국가과학기술연구회의 지원으로 개발된 결과입니다. 또한 본 연구는 산업통상자원부 (MOTIE)와 한국에너지기술평가원 (KETEP)의 지원을 받아 수행한 연구입니다. (RS-2024-00441420; RS-2024-00442817).
 
 ---
 
