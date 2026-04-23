@@ -111,7 +111,8 @@ RPA 도입의 기술적 성공만큼 중요한 것이 조직적 변화 관리와
 E-리서치 큐레이터봇은 구독자 정보수집 파트와 콘텐츠 수집 및 메일링 파트의 두 축으로 설계되었다. 그림 1은 전체 시스템의 데이터 흐름을 나타낸다.
 
 > **[그림 1]** E-리서치 큐레이터봇 시스템 아키텍처
-<img width="836" height="624" alt="kier_curator_bot_v2 drawio" src="https://github.com/user-attachments/assets/d7e85785-ce28-4e51-832f-04c578ecc432" />
+<img width="1892" height="1284" alt="스크린샷 2026-04-18 132959" src="https://github.com/user-attachments/assets/06304a1e-0364-44e0-b63c-88f620c4c737" />
+
 
 
 구독자 정보수집 파트는 연구자가 관심 키워드와 수신 주기를 설정할 수 있는 외부용 및 내부용 웹페이지로 구성된다. Cloudflare의 분산 CDN(Content Delivery Network) 기반 Edge Computing을 활용하여 자체 서버 부하 없이 고가용성을 확보하였으며, 구독자 관심사는 OpenAI 임베딩 API를 통해 벡터화되어 RPA 서버에서 개인화 필터링에 활용된다.
